@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{49ED73C8-6534-4A27-7909-CF463638A4D5}") = "SocketUdp", "Assembly-CSharp.csproj", "{240403C1-73D2-8CEB-08C7-E83385C91E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240403C1-73D2-8CEB-08C7-E83385C91E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240403C1-73D2-8CEB-08C7-E83385C91E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240403C1-73D2-8CEB-08C7-E83385C91E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240403C1-73D2-8CEB-08C7-E83385C91E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
